@@ -1,0 +1,1908 @@
+{
+ "6545021": {
+  "notebook_id": "6545021",
+  "langs": [
+   [
+    "en"
+   ],
+   [
+    "en"
+   ],
+   [
+    "en"
+   ],
+   [
+    "en"
+   ],
+   [
+    "zh"
+   ],
+   [
+    "en"
+   ],
+   [
+    "zh"
+   ],
+   [
+    "en"
+   ],
+   [
+    "en"
+   ],
+   [
+    "en"
+   ],
+   [
+    "en"
+   ],
+   [
+    "en"
+   ]
+  ],
+  "dedup_path": [
+   {
+    "ccidx": 1,
+    "func": [
+     [
+      "pd.read_csv()"
+     ]
+    ],
+    "target_names": [
+     [
+      "height"
+     ]
+    ],
+    "value_names": [
+     []
+    ],
+    "usage_names": [
+     [],
+     [
+      "height"
+     ]
+    ],
+    "usage_apis": [
+     [
+      "pd.read_csv()"
+     ],
+     [
+      "height.head()"
+     ]
+    ],
+    "_idx": 0,
+    "path_cell_idx": [
+     1,
+     2
+    ],
+    "code_var_context": [],
+    "import_context": [
+     [
+      "pandas",
+      "pandas",
+      "pd",
+      "import pandas as pd\n"
+     ],
+     [
+      "sklearn",
+      "sklearn.linear_model",
+      "LinearRegression",
+      "from sklearn.linear_model import LinearRegression\n"
+     ]
+    ],
+    "n_code": 2,
+    "n_md": 0,
+    "n_stmt": [
+     2,
+     2
+    ],
+    "n_tok": [
+     3,
+     3
+    ],
+    "path_cell_idx_w_md": [
+     1,
+     2
+    ],
+    "lang": [
+     [
+      "en"
+     ],
+     [
+      "en"
+     ]
+    ],
+    "path_cell_ccidx": [
+     1,
+     2
+    ]
+   },
+   {
+    "ccidx": 1,
+    "func": [
+     [
+      "pd.read_csv()"
+     ]
+    ],
+    "target_names": [
+     [
+      "height"
+     ]
+    ],
+    "value_names": [
+     []
+    ],
+    "usage_names": [
+     [],
+     [
+      "height"
+     ]
+    ],
+    "usage_apis": [
+     [
+      "pd.read_csv()"
+     ],
+     [
+      "height.head()"
+     ]
+    ],
+    "_idx": 0,
+    "path_cell_idx": [
+     1,
+     7
+    ],
+    "code_var_context": [
+     [
+      "model",
+      "model = LinearRegression()\n"
+     ]
+    ],
+    "import_context": [
+     [
+      "pandas",
+      "pandas",
+      "pd",
+      "import pandas as pd\n"
+     ]
+    ],
+    "n_code": 2,
+    "n_md": 1,
+    "n_stmt": [
+     2,
+     4
+    ],
+    "n_tok": [
+     3,
+     4
+    ],
+    "path_cell_idx_w_md": [
+     1,
+     6,
+     7
+    ],
+    "lang": [
+     [
+      "en"
+     ],
+     [
+      "zh"
+     ],
+     [
+      "en"
+     ]
+    ],
+    "path_cell_ccidx": [
+     1,
+     5
+    ]
+   },
+   {
+    "ccidx": 1,
+    "func": [
+     [
+      "pd.read_csv()"
+     ]
+    ],
+    "target_names": [
+     [
+      "height"
+     ]
+    ],
+    "value_names": [
+     []
+    ],
+    "usage_names": [
+     [],
+     [
+      "height"
+     ]
+    ],
+    "usage_apis": [
+     [
+      "pd.read_csv()"
+     ],
+     [
+      "height.head()"
+     ]
+    ],
+    "_idx": 0,
+    "path_cell_idx": [
+     1,
+     10
+    ],
+    "code_var_context": [],
+    "import_context": [
+     [
+      "pandas",
+      "pandas",
+      "pd",
+      "import pandas as pd\n"
+     ],
+     [
+      "sklearn",
+      "sklearn.linear_model",
+      "LinearRegression",
+      "from sklearn.linear_model import LinearRegression\n"
+     ]
+    ],
+    "n_code": 2,
+    "n_md": 0,
+    "n_stmt": [
+     2,
+     12
+    ],
+    "n_tok": [
+     3,
+     27
+    ],
+    "path_cell_idx_w_md": [
+     1,
+     10
+    ],
+    "lang": [
+     [
+      "en"
+     ],
+     [
+      "en"
+     ]
+    ],
+    "path_cell_ccidx": [
+     1,
+     8
+    ]
+   },
+   {
+    "ccidx": 6,
+    "func": [
+     [
+      "pd.read_csv()"
+     ]
+    ],
+    "target_names": [
+     [
+      "test"
+     ]
+    ],
+    "value_names": [
+     []
+    ],
+    "usage_names": [
+     [],
+     [
+      "test"
+     ]
+    ],
+    "usage_apis": [
+     [
+      "pd.read_csv()"
+     ],
+     [
+      "test.head()"
+     ]
+    ],
+    "_idx": 0,
+    "path_cell_idx": [
+     8,
+     9
+    ],
+    "code_var_context": [
+     [
+      "model",
+      "model = LinearRegression()\n"
+     ]
+    ],
+    "import_context": [
+     [
+      "pandas",
+      "pandas",
+      "pd",
+      "import pandas as pd\n"
+     ]
+    ],
+    "n_code": 2,
+    "n_md": 0,
+    "n_stmt": [
+     2,
+     3
+    ],
+    "n_tok": [
+     3,
+     5
+    ],
+    "path_cell_idx_w_md": [
+     8,
+     9
+    ],
+    "lang": [
+     [
+      "en"
+     ],
+     [
+      "en"
+     ]
+    ],
+    "path_cell_ccidx": [
+     6,
+     7
+    ]
+   },
+   {
+    "ccidx": 6,
+    "func": [
+     [
+      "pd.read_csv()"
+     ],
+     [],
+     [],
+     []
+    ],
+    "target_names": [
+     [
+      "test"
+     ],
+     [
+      "girlheight"
+     ],
+     [
+      "boytest"
+     ],
+     [
+      "girltest"
+     ]
+    ],
+    "value_names": [
+     [],
+     [
+      "height"
+     ],
+     [
+      "test"
+     ],
+     [
+      "test"
+     ]
+    ],
+    "usage_names": [
+     [],
+     [
+      "test"
+     ]
+    ],
+    "usage_apis": [
+     [
+      "pd.read_csv()"
+     ],
+     [
+      "test.head()"
+     ]
+    ],
+    "_idx": 0,
+    "path_cell_idx": [
+     8,
+     9,
+     10
+    ],
+    "code_var_context": [
+     [
+      "model",
+      "model = LinearRegression()\n"
+     ],
+     [
+      "height",
+      "height = pd.read_csv('DATASET_NB_ROOT/NB_6545021/height_train.csv')\n"
+     ]
+    ],
+    "import_context": [
+     [
+      "pandas",
+      "pandas",
+      "pd",
+      "import pandas as pd\n"
+     ],
+     [
+      "sklearn",
+      "sklearn.linear_model",
+      "LinearRegression",
+      "from sklearn.linear_model import LinearRegression\n"
+     ]
+    ],
+    "n_code": 3,
+    "n_md": 0,
+    "n_stmt": [
+     2,
+     3,
+     12
+    ],
+    "n_tok": [
+     3,
+     5,
+     27
+    ],
+    "path_cell_idx_w_md": [
+     8,
+     9,
+     10
+    ],
+    "lang": [
+     [
+      "en"
+     ],
+     [
+      "en"
+     ],
+     [
+      "en"
+     ]
+    ],
+    "path_cell_ccidx": [
+     6,
+     7,
+     8
+    ]
+   },
+   {
+    "ccidx": 8,
+    "func": [
+     []
+    ],
+    "target_names": [
+     [
+      "boyheight"
+     ]
+    ],
+    "value_names": [
+     [
+      "height"
+     ]
+    ],
+    "usage_names": [
+     [
+      "height"
+     ],
+     [
+      "height"
+     ],
+     [],
+     [
+      "boymodel",
+      "boyheight"
+     ],
+     [],
+     [
+      "girlmodel",
+      "girlheight"
+     ],
+     [],
+     [
+      "test"
+     ],
+     [
+      "test"
+     ],
+     [
+      "boymodel",
+      "boytest"
+     ],
+     [
+      "girlmodel",
+      "girltest"
+     ],
+     [
+      "boytest"
+     ]
+    ],
+    "usage_apis": [
+     [],
+     [],
+     [
+      "LinearRegression"
+     ],
+     [
+      "boymodel.fit()"
+     ],
+     [
+      "LinearRegression"
+     ],
+     [
+      "girlmodel.fit()"
+     ],
+     [
+      "pd.read_csv()"
+     ],
+     [],
+     [],
+     [
+      "boymodel.predict()",
+      "boytest.loc()"
+     ],
+     [
+      "girlmodel.predict()",
+      "girltest.loc()"
+     ],
+     [
+      "boytest.head()"
+     ]
+    ],
+    "_idx": 0,
+    "path_cell_idx": [
+     10
+    ],
+    "code_var_context": [
+     [
+      "height",
+      "height = pd.read_csv('DATASET_NB_ROOT/NB_6545021/height_train.csv')\n"
+     ]
+    ],
+    "import_context": [
+     [
+      "sklearn",
+      "sklearn.linear_model",
+      "LinearRegression",
+      "from sklearn.linear_model import LinearRegression\n"
+     ],
+     [
+      "pandas",
+      "pandas",
+      "pd",
+      "import pandas as pd\n"
+     ]
+    ],
+    "n_code": 1,
+    "n_md": 0,
+    "n_stmt": [
+     12
+    ],
+    "n_tok": [
+     27
+    ],
+    "path_cell_idx_w_md": [
+     10
+    ],
+    "lang": [
+     [
+      "en"
+     ]
+    ],
+    "path_cell_ccidx": [
+     8
+    ]
+   }
+  ],
+  "node_info": [
+   {
+    "ccidx": 0,
+    "target_names": [],
+    "target_define_line": [],
+    "value_names": [],
+    "variable_start_apis": [],
+    "usage_names": [
+     []
+    ],
+    "usage_apis": [
+     [
+      "warnings.filterwarnings()"
+     ]
+    ],
+    "n_stmt": 6,
+    "n_tok": 15,
+    "ip": [
+     [
+      "warnings",
+      "warnings",
+      "warnings",
+      "import warnings\n"
+     ]
+    ]
+   },
+   {
+    "ccidx": 1,
+    "target_names": [
+     [
+      "height"
+     ]
+    ],
+    "target_define_line": [
+     "height = pd.read_csv('DATASET_NB_ROOT/NB_6545021/height_train.csv')\n"
+    ],
+    "value_names": [
+     []
+    ],
+    "variable_start_apis": [
+     [
+      "pd.read_csv()"
+     ]
+    ],
+    "usage_names": [
+     [],
+     [
+      "height"
+     ]
+    ],
+    "usage_apis": [
+     [
+      "pd.read_csv()"
+     ],
+     [
+      "height.head()"
+     ]
+    ],
+    "n_stmt": 2,
+    "n_tok": 3,
+    "ip": [
+     [
+      "pandas",
+      "pandas",
+      "pd",
+      "import pandas as pd\n"
+     ]
+    ]
+   },
+   {
+    "ccidx": 2,
+    "target_names": [
+     [
+      "model"
+     ]
+    ],
+    "target_define_line": [
+     "model = LinearRegression()\n"
+    ],
+    "value_names": [
+     []
+    ],
+    "variable_start_apis": [
+     [
+      "LinearRegression"
+     ]
+    ],
+    "usage_names": [
+     [],
+     [
+      "model",
+      "height"
+     ]
+    ],
+    "usage_apis": [
+     [
+      "LinearRegression"
+     ],
+     [
+      "model.fit()"
+     ]
+    ],
+    "n_stmt": 2,
+    "n_tok": 3,
+    "ip": [
+     [
+      "sklearn",
+      "sklearn.linear_model",
+      "LinearRegression",
+      "from sklearn.linear_model import LinearRegression\n"
+     ]
+    ]
+   },
+   {
+    "ccidx": 3,
+    "target_names": [],
+    "target_define_line": [],
+    "value_names": [],
+    "variable_start_apis": [],
+    "usage_names": [
+     [
+      "model"
+     ],
+     [],
+     [
+      "model"
+     ]
+    ],
+    "usage_apis": [
+     [
+      "print"
+     ],
+     [
+      "print"
+     ],
+     [
+      "print"
+     ]
+    ],
+    "n_stmt": 3,
+    "n_tok": 4,
+    "ip": []
+   },
+   {
+    "ccidx": 4,
+    "target_names": [],
+    "target_define_line": [],
+    "value_names": [],
+    "variable_start_apis": [],
+    "usage_names": [
+     [
+      "height"
+     ]
+    ],
+    "usage_apis": [
+     [
+      "height.index()"
+     ]
+    ],
+    "n_stmt": 1,
+    "n_tok": 1,
+    "ip": []
+   },
+   {
+    "ccidx": 5,
+    "target_names": [],
+    "target_define_line": [],
+    "value_names": [],
+    "variable_start_apis": [],
+    "usage_names": [
+     [
+      "model",
+      "height"
+     ],
+     [
+      "model"
+     ],
+     [],
+     [
+      "model"
+     ]
+    ],
+    "usage_apis": [
+     [
+      "model.fit()"
+     ],
+     [
+      "print"
+     ],
+     [
+      "print"
+     ],
+     [
+      "print"
+     ]
+    ],
+    "n_stmt": 4,
+    "n_tok": 4,
+    "ip": []
+   },
+   {
+    "ccidx": 6,
+    "target_names": [
+     [
+      "test"
+     ]
+    ],
+    "target_define_line": [
+     "test = pd.read_csv('DATASET_NB_ROOT/NB_6545021/height_test.csv')\n"
+    ],
+    "value_names": [
+     []
+    ],
+    "variable_start_apis": [
+     [
+      "pd.read_csv()"
+     ]
+    ],
+    "usage_names": [
+     [],
+     [
+      "test"
+     ]
+    ],
+    "usage_apis": [
+     [
+      "pd.read_csv()"
+     ],
+     [
+      "test.head()"
+     ]
+    ],
+    "n_stmt": 2,
+    "n_tok": 3,
+    "ip": [
+     [
+      "pandas",
+      "pandas",
+      "pd",
+      "import pandas as pd\n"
+     ]
+    ]
+   },
+   {
+    "ccidx": 7,
+    "target_names": [
+     [
+      "test"
+     ],
+     [
+      "test"
+     ]
+    ],
+    "target_define_line": [
+     "test['prediction1'] = ((((0.23959427 * test.father_height) + (0.25013358 * test.mother_height)) + (0.10030806 * test.boy_dummy)) + 0.8274299645517075)\n",
+     "test['prediction2'] = model.predict(test.loc[:, ['father_height', 'mother_height', 'boy_dummy']])\n"
+    ],
+    "value_names": [
+     [
+      "test"
+     ],
+     [
+      "model",
+      "test"
+     ]
+    ],
+    "variable_start_apis": [
+     [
+      "test.father_height()",
+      "test.mother_height()",
+      "test.boy_dummy()"
+     ],
+     [
+      "model.predict()",
+      "test.loc()"
+     ]
+    ],
+    "usage_names": [
+     [
+      "test"
+     ],
+     [
+      "model",
+      "test"
+     ],
+     [
+      "test"
+     ]
+    ],
+    "usage_apis": [
+     [
+      "test.father_height()",
+      "test.mother_height()",
+      "test.boy_dummy()"
+     ],
+     [
+      "model.predict()",
+      "test.loc()"
+     ],
+     [
+      "test.head()"
+     ]
+    ],
+    "n_stmt": 3,
+    "n_tok": 5,
+    "ip": []
+   },
+   {
+    "ccidx": 8,
+    "target_names": [
+     [
+      "boyheight"
+     ],
+     [
+      "girlheight"
+     ],
+     [
+      "boymodel"
+     ],
+     [
+      "girlmodel"
+     ],
+     [
+      "test"
+     ],
+     [
+      "boytest"
+     ],
+     [
+      "girltest"
+     ],
+     [
+      "boytest"
+     ],
+     [
+      "girltest"
+     ]
+    ],
+    "target_define_line": [
+     "boyheight = height.loc[(height.boy_dummy == 1)]\n",
+     "girlheight = height.loc[(height.boy_dummy == 0)]\n",
+     "boymodel = LinearRegression()\n",
+     "girlmodel = LinearRegression()\n",
+     "test = pd.read_csv('DATASET_NB_ROOT/NB_6545021/height_test.csv')\n",
+     "boytest = test.loc[(test.boy_dummy == 1)]\n",
+     "girltest = test.loc[(test.boy_dummy == 0)]\n",
+     "boytest.loc[:, 'prediction'] = boymodel.predict(boytest.loc[:, ['father_height', 'mother_height']])\n",
+     "girltest.loc[:, 'prediction'] = girlmodel.predict(girltest.loc[:, ['father_height', 'mother_height']])\n"
+    ],
+    "value_names": [
+     [
+      "height"
+     ],
+     [
+      "height"
+     ],
+     [],
+     [],
+     [],
+     [
+      "test"
+     ],
+     [
+      "test"
+     ],
+     [
+      "boymodel",
+      "boytest"
+     ],
+     [
+      "girlmodel",
+      "girltest"
+     ]
+    ],
+    "variable_start_apis": [
+     [],
+     [],
+     [
+      "LinearRegression"
+     ],
+     [
+      "LinearRegression"
+     ],
+     [
+      "pd.read_csv()"
+     ],
+     [],
+     [],
+     [
+      "boymodel.predict()",
+      "boytest.loc()"
+     ],
+     [
+      "girlmodel.predict()",
+      "girltest.loc()"
+     ]
+    ],
+    "usage_names": [
+     [
+      "height"
+     ],
+     [
+      "height"
+     ],
+     [],
+     [
+      "boymodel",
+      "boyheight"
+     ],
+     [],
+     [
+      "girlmodel",
+      "girlheight"
+     ],
+     [],
+     [
+      "test"
+     ],
+     [
+      "test"
+     ],
+     [
+      "boymodel",
+      "boytest"
+     ],
+     [
+      "girlmodel",
+      "girltest"
+     ],
+     [
+      "boytest"
+     ]
+    ],
+    "usage_apis": [
+     [],
+     [],
+     [
+      "LinearRegression"
+     ],
+     [
+      "boymodel.fit()"
+     ],
+     [
+      "LinearRegression"
+     ],
+     [
+      "girlmodel.fit()"
+     ],
+     [
+      "pd.read_csv()"
+     ],
+     [],
+     [],
+     [
+      "boymodel.predict()",
+      "boytest.loc()"
+     ],
+     [
+      "girlmodel.predict()",
+      "girltest.loc()"
+     ],
+     [
+      "boytest.head()"
+     ]
+    ],
+    "n_stmt": 12,
+    "n_tok": 27,
+    "ip": [
+     [
+      "sklearn",
+      "sklearn.linear_model",
+      "LinearRegression",
+      "from sklearn.linear_model import LinearRegression\n"
+     ],
+     [
+      "pandas",
+      "pandas",
+      "pd",
+      "import pandas as pd\n"
+     ]
+    ]
+   },
+   {
+    "ccidx": 9,
+    "target_names": [
+     [
+      "alldata"
+     ]
+    ],
+    "target_define_line": [
+     "alldata = pd.concat([boytest, girltest])\n"
+    ],
+    "value_names": [
+     [
+      "boytest",
+      "girltest"
+     ]
+    ],
+    "variable_start_apis": [
+     [
+      "pd.concat()"
+     ]
+    ],
+    "usage_names": [
+     [
+      "girltest"
+     ],
+     [
+      "boytest",
+      "girltest"
+     ],
+     [
+      "alldata"
+     ],
+     [
+      "alldata"
+     ]
+    ],
+    "usage_apis": [
+     [
+      "girltest.head()"
+     ],
+     [
+      "pd.concat()"
+     ],
+     [
+      "alldata.head()"
+     ],
+     [
+      "alldata.to_csv()"
+     ]
+    ],
+    "n_stmt": 4,
+    "n_tok": 3,
+    "ip": [
+     [
+      "pandas",
+      "pandas",
+      "pd",
+      "import pandas as pd\n"
+     ]
+    ]
+   }
+  ],
+  "df_cell": [
+   [
+    1,
+    2,
+    5,
+    7,
+    10
+   ],
+   [
+    8,
+    9,
+    10
+   ],
+   [
+    10
+   ],
+   [
+    10,
+    11
+   ],
+   [
+    11
+   ]
+  ]
+ },
+ "6934069": {
+  "notebook_id": "6934069",
+  "langs": [
+   [
+    "en"
+   ],
+   [
+    "en"
+   ],
+   [
+    "en"
+   ],
+   [
+    "en"
+   ],
+   [
+    "en"
+   ],
+   [
+    "en"
+   ],
+   [
+    "en"
+   ],
+   [
+    "en"
+   ]
+  ],
+  "dedup_path": [
+   {
+    "ccidx": 0,
+    "func": [
+     [
+      "pd.read_csv()"
+     ]
+    ],
+    "target_names": [
+     [
+      "df"
+     ]
+    ],
+    "value_names": [
+     []
+    ],
+    "usage_names": [
+     [],
+     [],
+     [
+      "df"
+     ]
+    ],
+    "usage_apis": [
+     [],
+     [
+      "pd.read_csv()"
+     ],
+     [
+      "df.head()"
+     ]
+    ],
+    "_idx": 1,
+    "path_cell_idx": [
+     0,
+     1,
+     2,
+     3
+    ],
+    "code_var_context": [],
+    "import_context": [
+     [
+      "pandas",
+      "pandas",
+      "pd",
+      "import numpy as np, pandas as pd, matplotlib.pyplot as plt, seaborn as sns\n"
+     ],
+     [
+      "numpy",
+      "numpy",
+      "np",
+      "import numpy as np, pandas as pd, matplotlib.pyplot as plt, seaborn as sns\n"
+     ],
+     [
+      "sklearn",
+      "sklearn.model_selection",
+      "train_test_split",
+      "from sklearn.model_selection import train_test_split\n"
+     ],
+     [
+      "sklearn",
+      "sklearn.preprocessing",
+      "StandardScaler",
+      "from sklearn.preprocessing import StandardScaler\n"
+     ]
+    ],
+    "n_code": 4,
+    "n_md": 0,
+    "n_stmt": [
+     5,
+     2,
+     2,
+     8
+    ],
+    "n_tok": [
+     21,
+     2,
+     5,
+     26
+    ],
+    "path_cell_idx_w_md": [
+     0,
+     1,
+     2,
+     3
+    ],
+    "lang": [
+     [
+      "en"
+     ],
+     [
+      "en"
+     ],
+     [
+      "en"
+     ],
+     [
+      "en"
+     ]
+    ],
+    "path_cell_ccidx": [
+     0,
+     1,
+     2,
+     3
+    ]
+   }
+  ],
+  "node_info": [
+   {
+    "ccidx": 0,
+    "target_names": [
+     [
+      "InteractiveShell"
+     ],
+     [
+      "df"
+     ]
+    ],
+    "target_define_line": [
+     "InteractiveShell.ast_node_interactivity = 'all'\n",
+     "df = pd.read_csv('DATASET_NB_ROOT/NB_6934069/Social_Network_Ads.csv')\n"
+    ],
+    "value_names": [
+     [],
+     []
+    ],
+    "variable_start_apis": [
+     [],
+     [
+      "pd.read_csv()"
+     ]
+    ],
+    "usage_names": [
+     [],
+     [],
+     [
+      "df"
+     ]
+    ],
+    "usage_apis": [
+     [],
+     [
+      "pd.read_csv()"
+     ],
+     [
+      "df.head()"
+     ]
+    ],
+    "n_stmt": 5,
+    "n_tok": 21,
+    "ip": [
+     [
+      "pandas",
+      "pandas",
+      "pd",
+      "import numpy as np, pandas as pd, matplotlib.pyplot as plt, seaborn as sns\n"
+     ]
+    ]
+   },
+   {
+    "ccidx": 1,
+    "target_names": [
+     [
+      "df"
+     ]
+    ],
+    "target_define_line": [
+     "df = df.iloc[:, 1:]\n"
+    ],
+    "value_names": [
+     [
+      "df"
+     ]
+    ],
+    "variable_start_apis": [
+     []
+    ],
+    "usage_names": [
+     [
+      "df"
+     ],
+     [
+      "df"
+     ]
+    ],
+    "usage_apis": [
+     [],
+     [
+      "df.head()"
+     ]
+    ],
+    "n_stmt": 2,
+    "n_tok": 2,
+    "ip": []
+   },
+   {
+    "ccidx": 2,
+    "target_names": [
+     [
+      "df"
+     ]
+    ],
+    "target_define_line": [
+     "df['Gender'] = np.where((df['Gender'] == 'Male'), 1, 0)\n"
+    ],
+    "value_names": [
+     [
+      "df"
+     ]
+    ],
+    "variable_start_apis": [
+     [
+      "np.where()"
+     ]
+    ],
+    "usage_names": [
+     [
+      "df"
+     ],
+     [
+      "df"
+     ]
+    ],
+    "usage_apis": [
+     [
+      "np.where()"
+     ],
+     [
+      "df.head()"
+     ]
+    ],
+    "n_stmt": 2,
+    "n_tok": 5,
+    "ip": [
+     [
+      "numpy",
+      "numpy",
+      "np",
+      "import numpy as np, pandas as pd, matplotlib.pyplot as plt, seaborn as sns\n"
+     ]
+    ]
+   },
+   {
+    "ccidx": 3,
+    "target_names": [
+     [
+      "x"
+     ],
+     [
+      "y"
+     ],
+     [
+      "xtr",
+      "xts",
+      "ytr",
+      "yts"
+     ],
+     [
+      "sc"
+     ],
+     [
+      "xtr"
+     ],
+     [
+      "xts"
+     ]
+    ],
+    "target_define_line": [
+     "x = df.iloc[:, :3].values\n",
+     "y = df.iloc[:, 3].values\n",
+     "(xtr, xts, ytr, yts) = train_test_split(x, y, test_size=0.3, random_state=0)\n",
+     "sc = StandardScaler()\n",
+     "xtr = sc.fit_transform(xtr)\n",
+     "xts = sc.transform(xts)\n"
+    ],
+    "value_names": [
+     [
+      "df"
+     ],
+     [
+      "df"
+     ],
+     [
+      "x",
+      "y"
+     ],
+     [],
+     [
+      "sc",
+      "xtr"
+     ],
+     [
+      "sc",
+      "xts"
+     ]
+    ],
+    "variable_start_apis": [
+     [
+      ".values()"
+     ],
+     [
+      ".values()"
+     ],
+     [
+      "train_test_split"
+     ],
+     [
+      "StandardScaler"
+     ],
+     [
+      "sc.fit_transform()"
+     ],
+     [
+      "sc.transform()"
+     ]
+    ],
+    "usage_names": [
+     [
+      "df"
+     ],
+     [
+      "df"
+     ],
+     [
+      "x",
+      "y"
+     ],
+     [],
+     [
+      "sc",
+      "xtr"
+     ],
+     [
+      "sc",
+      "xts"
+     ]
+    ],
+    "usage_apis": [
+     [
+      ".values()"
+     ],
+     [
+      ".values()"
+     ],
+     [
+      "train_test_split"
+     ],
+     [
+      "StandardScaler"
+     ],
+     [
+      "sc.fit_transform()"
+     ],
+     [
+      "sc.transform()"
+     ]
+    ],
+    "n_stmt": 8,
+    "n_tok": 26,
+    "ip": [
+     [
+      "sklearn",
+      "sklearn.model_selection",
+      "train_test_split",
+      "from sklearn.model_selection import train_test_split\n"
+     ],
+     [
+      "sklearn",
+      "sklearn.preprocessing",
+      "StandardScaler",
+      "from sklearn.preprocessing import StandardScaler\n"
+     ]
+    ]
+   },
+   {
+    "ccidx": 4,
+    "target_names": [
+     [
+      "dt1"
+     ],
+     [
+      "dt2"
+     ]
+    ],
+    "target_define_line": [
+     "dt1 = DecisionTreeClassifier(criterion='entropy', max_depth=3, random_state=0)\n",
+     "dt2 = DecisionTreeClassifier(criterion='gini', max_depth=3, random_state=0)\n"
+    ],
+    "value_names": [
+     [],
+     []
+    ],
+    "variable_start_apis": [
+     [
+      "DecisionTreeClassifier"
+     ],
+     [
+      "DecisionTreeClassifier"
+     ]
+    ],
+    "usage_names": [
+     [],
+     [],
+     [
+      "dt1",
+      "xtr",
+      "ytr"
+     ],
+     [
+      "dt1"
+     ],
+     [
+      "dt1",
+      "xtr",
+      "ytr"
+     ],
+     [
+      "dt1",
+      "xts",
+      "yts"
+     ]
+    ],
+    "usage_apis": [
+     [
+      "DecisionTreeClassifier"
+     ],
+     [
+      "DecisionTreeClassifier"
+     ],
+     [
+      "dt1.fit()"
+     ],
+     [
+      "dt1.feature_importances_()"
+     ],
+     [
+      "dt1.score()"
+     ],
+     [
+      "dt1.score()"
+     ]
+    ],
+    "n_stmt": 7,
+    "n_tok": 15,
+    "ip": [
+     [
+      "sklearn",
+      "sklearn.tree",
+      "DecisionTreeClassifier",
+      "from sklearn.tree import DecisionTreeClassifier\n"
+     ]
+    ]
+   },
+   {
+    "ccidx": 5,
+    "target_names": [],
+    "target_define_line": [],
+    "value_names": [],
+    "variable_start_apis": [],
+    "usage_names": [
+     [
+      "dt2",
+      "xtr",
+      "ytr"
+     ],
+     [
+      "dt2"
+     ],
+     [
+      "dt2",
+      "xtr",
+      "ytr"
+     ],
+     [
+      "dt2",
+      "xts",
+      "yts"
+     ]
+    ],
+    "usage_apis": [
+     [
+      "dt2.fit()"
+     ],
+     [
+      "dt2.feature_importances_()"
+     ],
+     [
+      "dt2.score()"
+     ],
+     [
+      "dt2.score()"
+     ]
+    ],
+    "n_stmt": 4,
+    "n_tok": 4,
+    "ip": []
+   },
+   {
+    "ccidx": 6,
+    "target_names": [
+     [
+      "rf"
+     ]
+    ],
+    "target_define_line": [
+     "rf = RandomForestClassifier(n_estimators=10, max_depth=3, min_samples_split=2)\n"
+    ],
+    "value_names": [
+     []
+    ],
+    "variable_start_apis": [
+     [
+      "RandomForestClassifier"
+     ]
+    ],
+    "usage_names": [
+     [],
+     [
+      "rf",
+      "xtr",
+      "ytr"
+     ],
+     [
+      "rf"
+     ],
+     [
+      "rf",
+      "xtr",
+      "ytr"
+     ],
+     [
+      "rf",
+      "xts",
+      "yts"
+     ]
+    ],
+    "usage_apis": [
+     [
+      "RandomForestClassifier"
+     ],
+     [
+      "rf.fit()"
+     ],
+     [
+      "rf.feature_importances_()"
+     ],
+     [
+      "rf.score()"
+     ],
+     [
+      "rf.score()"
+     ]
+    ],
+    "n_stmt": 6,
+    "n_tok": 11,
+    "ip": [
+     [
+      "sklearn",
+      "sklearn.ensemble",
+      "RandomForestClassifier",
+      "from sklearn.ensemble import RandomForestClassifier\n"
+     ]
+    ]
+   },
+   {
+    "ccidx": 7,
+    "target_names": [
+     [
+      "ypr1"
+     ],
+     [
+      "ypr2"
+     ],
+     [
+      "ypr3"
+     ],
+     [
+      "cm1"
+     ],
+     [
+      "cm2"
+     ],
+     [
+      "cm3"
+     ]
+    ],
+    "target_define_line": [
+     "ypr1 = dt1.predict(xts)\n",
+     "ypr2 = dt2.predict(xts)\n",
+     "ypr3 = rf.predict(xts)\n",
+     "cm1 = confusion_matrix(yts, ypr1)\n",
+     "cm2 = confusion_matrix(yts, ypr2)\n",
+     "cm3 = confusion_matrix(yts, ypr3)\n"
+    ],
+    "value_names": [
+     [
+      "dt1",
+      "xts"
+     ],
+     [
+      "dt2",
+      "xts"
+     ],
+     [
+      "rf",
+      "xts"
+     ],
+     [
+      "yts",
+      "ypr1"
+     ],
+     [
+      "yts",
+      "ypr2"
+     ],
+     [
+      "yts",
+      "ypr3"
+     ]
+    ],
+    "variable_start_apis": [
+     [
+      "dt1.predict()"
+     ],
+     [
+      "dt2.predict()"
+     ],
+     [
+      "rf.predict()"
+     ],
+     [
+      "confusion_matrix"
+     ],
+     [
+      "confusion_matrix"
+     ],
+     [
+      "confusion_matrix"
+     ]
+    ],
+    "usage_names": [
+     [
+      "dt1",
+      "xts"
+     ],
+     [
+      "dt2",
+      "xts"
+     ],
+     [
+      "rf",
+      "xts"
+     ],
+     [
+      "yts",
+      "ypr1"
+     ],
+     [
+      "yts",
+      "ypr2"
+     ],
+     [
+      "yts",
+      "ypr3"
+     ],
+     [
+      "cm1"
+     ],
+     [
+      "cm2"
+     ],
+     [
+      "cm3"
+     ]
+    ],
+    "usage_apis": [
+     [
+      "dt1.predict()"
+     ],
+     [
+      "dt2.predict()"
+     ],
+     [
+      "rf.predict()"
+     ],
+     [
+      "confusion_matrix"
+     ],
+     [
+      "confusion_matrix"
+     ],
+     [
+      "confusion_matrix"
+     ],
+     [],
+     [],
+     []
+    ],
+    "n_stmt": 10,
+    "n_tok": 19,
+    "ip": [
+     [
+      "sklearn",
+      "sklearn.metrics",
+      "confusion_matrix",
+      "from sklearn.metrics import confusion_matrix\n"
+     ]
+    ]
+   }
+  ],
+  "df_cell": [
+   [
+    0,
+    1,
+    2,
+    3
+   ]
+  ]
+ }
+}

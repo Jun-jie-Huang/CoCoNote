@@ -1,0 +1,8 @@
+pandas
+tqdm
+astunparse
+seaborn
+langid
+pycld2
+nbformat
+lxml
